@@ -5,3 +5,4 @@ test_suite_analysis
 venv/
 docker-compose.yml
 rag_system.py
+config
