@@ -1,0 +1,10 @@
+gradio>=4.0.0
+
+litellm
+
+sentence-transformers
+rank-bm25
+langchain-text-splitters
+numpy
+
+torch
